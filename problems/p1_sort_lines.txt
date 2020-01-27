@@ -1,0 +1,8 @@
+Sort the lines of a file
+========================
+
+1. Read assets/p1_lines.txt
+2. Sort the lines in the file
+3. Print the sorted elements one at a time to STDOUT
+
+Tags: IO, sorting

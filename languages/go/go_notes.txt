@@ -1,0 +1,3 @@
+Build an executable:
+go build -o a1_sort_lines.exe -i .\a1_sort_lines.go
+
